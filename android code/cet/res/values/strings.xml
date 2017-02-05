@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">cet</string>
+<string name="search_colg">Search College</string>
+<string name="colg_cut_off">Collge Cutt Off</string>
+<string name="news_feed">News Feed</string>
+</resources>
